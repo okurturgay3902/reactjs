@@ -1,0 +1,7 @@
+.maviBg{
+    background-color: aqua;
+}
+
+ul li:nth-child(2){
+    color:red;
+}
